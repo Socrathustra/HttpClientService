@@ -1,5 +1,5 @@
 # HttpClientService
-A very simple abstraction of the HttpClient. It's not Flurl, but it's something.
+A very simple abstraction of the HttpClient intended as a code sample/demo.
 
 ## Purpose
 The primary purpose of this library is to demonstrate some of the abstractions I try to build into my code. It shows basic competence around use of HTTP and generics in C#.
